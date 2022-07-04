@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<aquecimento.CentralDeInformacoes>
+  <todosOsProgramas/>
+  <todosOsCanais/>
+  <todosOsUsuarios>
+    <aquecimento.Usuario>
+      <login>Qweeee</login>
+      <senha>1234Po</senha>
+    </aquecimento.Usuario>
+    <aquecimento.Usuario>
+      <login>Kelvin</login>
+      <senha>Qop123</senha>
+    </aquecimento.Usuario>
+    <aquecimento.Usuario>
+      <login>kiljhh</login>
+      <senha>vguguyQ1</senha>
+    </aquecimento.Usuario>
+  </todosOsUsuarios>
+</aquecimento.CentralDeInformacoes>
